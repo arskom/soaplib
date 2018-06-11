@@ -1,3 +1,3 @@
-The original soaplib project was renamed to [http://github.com/arskom/spyne](spyne).
+The original soaplib project was renamed to [spyne](http://github.com/arskom/spyne).
 
-It was also forked as [http://github.com/soaplib/soaplib](soaplib).
+It was also forked as [soaplib](http://github.com/soaplib/soaplib).
